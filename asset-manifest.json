@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Web.github.io/static/css/main.fd529234.css",
-    "main.js": "/Web.github.io/static/js/main.19f30bad.js",
-    "index.html": "/Web.github.io/index.html",
-    "main.fd529234.css.map": "/Web.github.io/static/css/main.fd529234.css.map",
-    "main.19f30bad.js.map": "/Web.github.io/static/js/main.19f30bad.js.map"
+    "main.css": "/Match_Pair/static/css/main.fd529234.css",
+    "main.js": "/Match_Pair/static/js/main.19f30bad.js",
+    "index.html": "/Match_Pair/index.html",
+    "main.fd529234.css.map": "/Match_Pair/static/css/main.fd529234.css.map",
+    "main.19f30bad.js.map": "/Match_Pair/static/js/main.19f30bad.js.map"
   },
   "entrypoints": [
     "static/css/main.fd529234.css",
